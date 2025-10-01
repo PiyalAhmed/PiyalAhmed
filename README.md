@@ -1,49 +1,213 @@
-# Piyal Ahmed - Software Engineer | Java Expert | Tech Enthusiast
+# 👋 Hi, I'm Piyal Ahmed
 
-Welcome to my GitHub! I’m Piyal Ahmed, a passionate Software Engineer from Dhaka, Bangladesh, with a strong background in Java development and a keen interest in building scalable, efficient systems.
+<div align="center">
 
----
+  ![Profile Views](https://komarev.com/ghpvc/?username=PiyalAhmed&color=00FF00&style=flat-square&label=PROFILE+VIEWS)
 
-## 🚀 About Me
+  **Senior Software Engineer** | **Backend Specialist** | **Microservices Architect**
 
-- **Name:** Piyal Ahmed
-- **Location:** Dhaka, Bangladesh
-- **Email:** [piyal.salamence@gmail.com](mailto:piyal.salamence@gmail.com)
-- **LinkedIn:** [linkedin.com/in/piyalahmed](https://www.linkedin.com/in/piyalahmed)
+  🌍 Based in Kuala Lumpur, Malaysia 🇲🇾 | 🏠 Originally from Jashore, Bangladesh 🇧🇩
 
-I specialize in backend development, focusing on creating robust and maintainable code that drives the backbone of powerful applications. My work primarily revolves around Java and microservices, where I continuously strive to enhance system performance and scalability.
+  [![Portfolio](https://img.shields.io/badge/Portfolio-piyalahmed.com-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://piyalahmed.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-piyalahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyalahmed)
+  [![Medium](https://img.shields.io/badge/Medium-@piyalahmed-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://piyalahmed.medium.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-@piyalahmed-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@piyalahmed)
 
----
-
-## 🔧 Technical Skills
-
-- **Programming Languages:** Java, Spring Boot, JPA, Hibernate
-- **Database Management:** MySQL, Redis
-- **DevOps:** Docker, Kubernetes, Jenkins, SonarQube
-- **Monitoring & Logging:** Prometheus, Kibana
-- **Other Tools:** Git, Reactive Spring
+</div>
 
 ---
 
-## 📚 Education
+## 💼 About Me
 
-- **Bachelor of Technology in Computer Science and Engineering**  
-  Lovely Professional University, Punjab, India
+```java
+public class PiyalAhmed {
+    private String role = "Senior Software Engineer";
+    private String company = "Hong Leong Bank Berhad";
+    private double experience = 3.5; // years
+    private String location = "Kuala Lumpur, Malaysia";
+
+    private String[] expertise = {
+        "Java", "Spring Boot", "Microservices Architecture",
+        "System Design", "Backend Optimization", "Distributed Systems"
+    };
+
+    private Map<String, String> currentFocus = Map.of(
+        "🏦", "Building highly scalable banking systems",
+        "⚡", "Exploring MCPs and agnetic world",
+        "🎯", "Contibuting to open source projects",
+        "📚", "Sharing knowledge through Medium & YouTube and Mentorship"
+    );
+
+    public String[] getPassions() {
+        return new String[] {
+            "Solving complex real-world problems",
+            "Exploring new technologies",
+            "Contributing to open source",
+            "Teaching programming to kids"
+        };
+    }
+}
+```
 
 ---
 
-## 🌍 Languages
+## 🚀 Current Work
 
-- **English:** Proficient
-- **Bengali:** Native
-- **Hindi:** Intermediate
+- 🏦 **Senior Software Engineer** at **Hong Leong Bank Berhad** (May 2025 - Present)
+  - Developing mission-critical banking systems and payment processing APIs
+  - Handling **100K+ daily transactions** with **99.9% uptime**
+  - Building microservices with event-driven architecture
+
+- 💡 Previously at **Ideascale** (Jan 2024 - Apr 2025)
+  - Developed scalable RESTful APIs for innovation management platform
+  - **500K+ API requests daily** with **sub-200ms response times**
+  - Increased code coverage from 60% to 90%
+
+- 🛍️ Previously at **BJIT Ltd. - Rakuten Offshore Team** (Apr 2022 - Dec 2023)
+  - Built microservices for e-commerce platform handling billions of requests
+  - Created test case generator, boosting team productivity by **10x**
 
 ---
 
-## 📢 Let's Connect!
+## 🛠️ Tech Stack
 
-I'm always open to new opportunities, collaborations, and discussions. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/piyalahmed) or reach out via [email](mailto:piyal.salamence@gmail.com).
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-00A2E8?style=flat-square&logo=micronaut&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+### **Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### **Messaging & Monitoring**
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+### **AI & Development Tools**
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Code_Assist-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-181818?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-**Piyal Ahmed | Software Engineer | Java | Microservices | Bangladesh**
+## 💡 Side Ventures
+
+### 📊 [Compound Interest Calculator](https://piyalahmed.com/compound-interest-calculator/) • **LIVE**
+The most flexible compound interest calculator online. Built to handle real-world investment scenarios with advanced customization options not found in traditional calculators.
+
+**Thought Process:** *I've faced this problem, couldn't find any compound interest calculator that does it all, so thought, why not build one?*
+
+### 🌍 [Relocation Stories](https://relocationstories.com) • **LIVE & GROWING**
+A community platform where people share real relocation experiences, challenges, and victories. Learn from those who've already made the move.
+
+**Roadmap:**
+- Jobs with relocation opportunities
+- 1-on-1 paid consultations with relocators
+- Country-specific guides and resources
+
+### 💼 Deshi Careers • **IN DEVELOPMENT**
+Transforming Bangladesh's job market with radical transparency. A full-featured job portal where:
+- 💰 Salary disclosure is **mandatory**
+- ⭐ Employees can **publicly rate** employers
+- 📄 Traditional PDF resumes replaced by **profile-based resumes**
+- 🆓 **Free for all users**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  ![Piyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyalAhmed&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&border_color=00FF00&hide_border=false)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyalAhmed&layout=compact&theme=dark&bg_color=000000&title_color=00FF00&text_color=FFFFFF&border_color=00FF00&hide_border=false)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyalAhmed&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&border=00FF00)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🦈 **Pull Shark** - Active contributor to open source
+- 👥 **Pair Extraordinaire** - Collaborative coding champion
+- 🌟 **Open Source Contributor** to Spring Boot & Micronaut
+- 📝 **Technical Writer** on Medium with growing readership
+- 🎥 **YouTube Educator** teaching programming in Bengali
+- 👨‍🏫 **Teaching Programming** to kids and professionals on TeacherOn
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Run LLM models locally on your machine in 5 minutes]([https://piyalahmed.medium.com](https://medium.com/@piyalahmed/run-llm-models-locally-on-your-machine-in-5-minutes-6f53ab73d7c0))
+- [This Is How to Run a PDF File (As a Java Program)]([https://piyalahmed.medium.com](https://medium.com/@piyalahmed/this-is-how-to-run-a-pdf-file-as-a-java-program-b3cc0bfa2527))
+- [The Number That Hates Itself: Why Java’s NaN Is a Self-Contradictory Rebel?]([https://piyalahmed.medium.com](https://medium.com/@piyalahmed/the-number-that-hates-itself-why-javas-nan-is-a-self-contradictory-rebel-37aaab0a71a3))
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Read more on Medium](https://piyalahmed.medium.com)
+
+---
+
+## 🎥 YouTube Content (Bengali)
+
+I create step-by-step tutorials covering:
+- ☕ Java Programming
+- 🍃 Spring Boot Framework
+- 🔧 Backend Development Techniques
+- 💻 Software Engineering Concepts
+
+➡️ [Watch on YouTube](https://youtube.com/@piyalahmed)
+
+---
+
+## 📬 Let's Connect
+
+I'm always interested in hearing about new projects, opportunities to contribute, or just having a technical discussion!
+
+- 🌐 **Portfolio:** [piyalahmed.com](https://piyalahmed.com)
+- 💼 **LinkedIn:** [linkedin.com/in/piyalahmed](https://linkedin.com/in/piyalahmed)
+- 📧 **Email:** piyal.salamence@gmail.com
+- 📱 **WhatsApp:** [+880 1986 654232](https://wa.me/8801986654232)
+- 🐙 **GitHub:** [github.com/PiyalAhmed](https://github.com/PiyalAhmed)
+- 📝 **Medium:** [@piyalahmed](https://piyalahmed.medium.com)
+- 🎥 **YouTube:** [@piyalahmed](https://youtube.com/@piyalahmed)
+- 👨‍🏫 **TeacherOn:** [teacheron.com/tutor/2xA4](https://teacheron.com/tutor/2xA4)
+
+---
+
+## 💼 Services I Offer
+
+- 🔧 **Backend Development Consulting**
+- 🏗️ **System Architecture Review**
+- 👨‍🏫 **Technical Mentorship**
+- 💻 **Full-Stack Development**
+
+---
+
+<div align="center">
+
+  ### 🚀 "Passionate about highly scalable backend systems. Loves walking through complex real-world problems, solving puzzles, and exploring new technologies."
+
+  ![Neo-Brutalist Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=3)
+
+  **⭐ If you find my work interesting, consider giving my repositories a star!**
+
+  ![Neo-Brutalist Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=000000&fontAlignY=70)
+
+</div>
