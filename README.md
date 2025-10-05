@@ -33,9 +33,9 @@ public class PiyalAhmed {
 
     private Map<String, String> currentFocus = Map.of(
         "🏦", "Building highly scalable banking systems",
-        "⚡", "Exploring MCPs and agnetic world",
-        "🎯", "Contibuting to open source projects",
-        "📚", "Sharing knowledge through Medium & YouTube and Mentorship"
+        "⚡", "Processing 100K+ daily transactions",
+        "🎯", "Achieving 99.9% uptime",
+        "📚", "Sharing knowledge through Medium & YouTube"
     );
 
     public String[] getPassions() {
@@ -105,18 +105,23 @@ public class PiyalAhmed {
 
 ## 💡 Side Ventures
 
-### 📊 [Compound Interest Calculator](https://piyalahmed.com/compound-interest-calculator/) • **LIVE**
-The most flexible compound interest calculator online. Built to handle real-world investment scenarios with advanced customization options not found in traditional calculators.
+### 📊 [Compound Interest Calculator](https://compound-interest-calculator.piyalahmed.com) • **LIVE**
+The most flexible compound interest calculator online. Built to handle real-world investment scenarios with advanced customization options not found in traditional calculators. Calculate and visualize growth with multiple compounding periods, variable contributions, and detailed projections.
 
 **Thought Process:** *I've faced this problem, couldn't find any compound interest calculator that does it all, so thought, why not build one?*
 
 ### 🌍 [Relocation Stories](https://relocationstories.com) • **LIVE & GROWING**
-A community platform where people share real relocation experiences, challenges, and victories. Learn from those who've already made the move.
+Bridging the gap between relocated professionals and aspiring relocators. A community platform where people share real relocation experiences, challenges, and victories. Learn from those who've already made the move.
 
 **Roadmap:**
 - Jobs with relocation opportunities
 - 1-on-1 paid consultations with relocators
 - Country-specific guides and resources
+
+### 🎓 [Oh My Course](https://oh-my-course.piyalahmed.com) • **LIVE**
+Doing courses offline never been easier. Meet Oh My Course, your new companion for doing offline courses. All your downloaded courses remains to you, and we provide the beautiful UI just like any e-learning platform. Now, you can track your learning progress for offline courses, and easily navigate through it! Honestly, local video player is not good for offline courses.
+
+**Mission:** *Providing a simple yet powerful e-learning platform for your downloaded courses.*
 
 ### 💼 Deshi Careers • **IN DEVELOPMENT**
 Transforming Bangladesh's job market with radical transparency. A full-featured job portal where:
@@ -148,16 +153,16 @@ Transforming Bangladesh's job market with radical transparency. A full-featured 
 - 🌟 **Open Source Contributor** to Spring Boot & Micronaut
 - 📝 **Technical Writer** on Medium with growing readership
 - 🎥 **YouTube Educator** teaching programming in Bengali
-- 👨‍🏫 **Teaching Programming** to kids and professionals on TeacherOn
+- 👨‍🏫 **Teaching Programming** to kids on TeacherOn
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Run LLM models locally on your machine in 5 minutes]([https://piyalahmed.medium.com](https://medium.com/@piyalahmed/run-llm-models-locally-on-your-machine-in-5-minutes-6f53ab73d7c0))
-- [This Is How to Run a PDF File (As a Java Program)]([https://piyalahmed.medium.com](https://medium.com/@piyalahmed/this-is-how-to-run-a-pdf-file-as-a-java-program-b3cc0bfa2527))
-- [The Number That Hates Itself: Why Java’s NaN Is a Self-Contradictory Rebel?]([https://piyalahmed.medium.com](https://medium.com/@piyalahmed/the-number-that-hates-itself-why-javas-nan-is-a-self-contradictory-rebel-37aaab0a71a3))
+- [Run LLM models locally on your machine in 5 minutes](https://medium.com/@piyalahmed/run-llm-models-locally-on-your-machine-in-5-minutes-6f53ab73d7c0)
+- [This Is How to Run a PDF File (As a Java Program)](https://medium.com/@piyalahmed/this-is-how-to-run-a-pdf-file-as-a-java-program-b3cc0bfa2527)
+- [The Number That Hates Itself: Why Java's NaN Is a Self-Contradictory Rebel?](https://medium.com/@piyalahmed/the-number-that-hates-itself-why-javas-nan-is-a-self-contradictory-rebel-37aaab0a71a3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on Medium](https://piyalahmed.medium.com)
